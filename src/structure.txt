@@ -1,0 +1,26 @@
+Class ~ Library:
+
+Abstract Class ~ User:
+    Member
+    Admin
+    Role
+
+Class ~ Publication:
+    Book:
+        ReferenceBook
+        BorrowableBook
+
+    Magazine:
+        SpecializedMagazine
+        GeneralMagazine
+
+interface ~ Buyable
+interface ~ Borrowable
+
+
+* interface
+* abstract class
+* polymorphism
+* inheritance
+* enum
+
